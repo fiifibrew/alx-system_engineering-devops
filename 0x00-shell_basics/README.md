@@ -1,1 +1,1 @@
-listin directory files including hidden files 
+long listing files digit only
